@@ -1,7 +1,7 @@
 ### Iae maninho, eu sou o Daniel!! 👋
 
 - ⚡ Estudando Programação
-- ⚡ Pronouns: <ele/dele>
+- ⚡ PHP, JavaScript, Css e mais um pouco :)
 - ⚡ Fun fact: Gosto de manteiga no arroz
 
 <div>
